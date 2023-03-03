@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/request": "^2.47.1",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "request": "^2.87.0",
     "typescript": "^2.9.2"
   }
